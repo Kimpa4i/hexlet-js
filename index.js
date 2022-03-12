@@ -3,3 +3,6 @@ const fn = (a, b) => {
   return c;
 };
 console.log(fn);
+
+
+log 
