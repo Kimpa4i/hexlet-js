@@ -2,7 +2,4 @@ const fn = (a, b) => {
   const c = a + b;
   return c;
 };
-console.log(fn);
-
-
-log 
+fn(1, 2);
